@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Sabrina Menezes"
-description:	       "a design portfolio"
+description:	       "Design Portfolio"
 #author:              "Sabrina Menezes"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
