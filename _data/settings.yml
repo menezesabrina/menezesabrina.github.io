@@ -15,7 +15,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'phone', phone:    '0428508807'}
+#- {icon: 'phone', phone:    '0428508807'}
 - {icon: 'linkedin', link:   'https://www.linkedin.com/in/sabrina-menezes1/'}
 - {icon: 'envelope', link:   'mailto:sabrinamenezes.design@gmail.com'}
 
