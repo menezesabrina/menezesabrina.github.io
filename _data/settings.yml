@@ -8,8 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'About', url: 'about'}
-- {name: 'Projects',  url: 'projects'}
-- {name: 'Graphic Design',  url: 'graphic-design'}
+- {name: 'Design Projects',  url: 'design-projects'}
 - {name: 'Photography', url: 'photography'}
 - {name: 'Contact', url: 'contact'}
 
@@ -25,8 +24,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+#sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy...'
+#related_posts: 'You may also enjoy...'
 
-post_date_prefix: 'Written on'
+#post_date_prefix: 'Written on'
