@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bb Brand Guidelines"
-
+author: ""
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
